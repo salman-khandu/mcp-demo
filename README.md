@@ -2,6 +2,10 @@
 
 Let's get a remote MCP server up-and-running on Cloudflare Workers complete with OAuth login!
 
+<a href="https://glama.ai/mcp/servers/@salman-khandu/mcp-demo">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@salman-khandu/mcp-demo/badge" alt="Remote Server on Cloudflare MCP server" />
+</a>
+
 ## Develop locally
 
 ```bash
